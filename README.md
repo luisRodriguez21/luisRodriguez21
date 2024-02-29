@@ -1,7 +1,7 @@
 # Luis Rodríguez 👨‍💻
 ##### Backend Developer 🤖
 
-## Acerca de mí ℹ️
+## About Me 🚀 ️
 I'm a developer with 4 years of experience. I've worked on frontend projects using React, Vanilla JS, TypeScript. In the backend I've used Node, Java, Laravel, and F3. In mobile development, I've used React Native, as well as databases like MySQL, SQL Server, Oracle, and PostgreSQL.
 
 ## Technologies 🛠️ 
