@@ -11,7 +11,7 @@ I'm a developer with 4 years of experience. I've worked on frontend projects usi
   - TypeScript ![TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg)
 
 - Backend:
-  - Node ![Node](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
+  - Node.js ![Node](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
   - Java ![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
   - Laravel ![Laravel](https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg)
   - F3
@@ -19,10 +19,10 @@ I'm a developer with 4 years of experience. I've worked on frontend projects usi
 - Mobile:
   - React Native ![React Native](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
 
-- Databases:
-  - MySQL ![MySQL](https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg)
-  - SQL Server ![SQL Server](https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Microsoft_SQL_Server_Logo.svg/1200px-Microsoft_SQL_Server_Logo.svg.png)
-  - Oracle ![Oracle](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Oracle_logo.svg/1280px-Oracle_logo.svg.png)
+- Bases de datos:
+  - MySQL ![MySQL](https://upload.wikimedia.org/wikipedia/commons/0/0d/MySQL_logo.svg)
+  - SQL Server ![SQL Server](https://upload.wikimedia.org/wikipedia/en/1/15/Microsoft_SQL_Server_Logo.svg)
+  - Oracle ![Oracle](https://upload.wikimedia.org/wikipedia/commons/2/29/Oracle_oracledb.svg)
   - PostgreSQL ![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
 
 ## GitHub Stats 📊
