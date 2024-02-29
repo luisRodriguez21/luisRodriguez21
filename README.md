@@ -6,8 +6,11 @@ I'm a developer with 4 years of experience. I've worked on frontend projects usi
 
 ## Technologies 🛠️ 
 **Frontend:**  React | Next | Astro
+
 **Backend:** Node | TypeScript | Nest | Python
+
 **Mobile:** React Native
+
 **Databases:** MySQL | SQL Server | Oracle | PostgreSQL 
 
 
