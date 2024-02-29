@@ -6,24 +6,24 @@ I'm a developer with 4 years of experience. I've worked on frontend projects usi
 
 ## Skills 🚀
 - Frontend:
-  - React ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-  - Vanilla JS ![JS](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
-  - TypeScript ![TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg)
+  - React <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="20" height="20">
+  - Vanilla JS <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="20" height="20">
+  - TypeScript <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="20" height="20">
 
 - Backend:
-  - Node.js ![Node](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
-  - Java ![Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
-  - Laravel ![Laravel](https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg)
+  - Node.js <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="20" height="20">
+  - Java <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="20" height="20">
+  - Laravel <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="20" height="20">
   - F3
 
 - Mobile:
-  - React Native ![React Native](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+  - React Native <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="20" height="20">
 
 - Bases de datos:
-  - MySQL ![MySQL](https://upload.wikimedia.org/wikipedia/commons/0/0d/MySQL_logo.svg)
-  - SQL Server ![SQL Server](https://upload.wikimedia.org/wikipedia/en/1/15/Microsoft_SQL_Server_Logo.svg)
-  - Oracle ![Oracle](https://upload.wikimedia.org/wikipedia/commons/2/29/Oracle_oracledb.svg)
-  - PostgreSQL ![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
+  - MySQL <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/MySQL_logo.svg" width="20" height="20">
+  - SQL Server <img src="https://upload.wikimedia.org/wikipedia/en/1/15/Microsoft_SQL_Server_Logo.svg" width="20" height="20">
+  - Oracle <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Oracle_oracledb.svg" width="20" height="20">
+  - PostgreSQL <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="20" height="20">
+
 
 ## GitHub Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisRodriguez21&show_icons=true&theme=radical)
